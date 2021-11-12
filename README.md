@@ -9,9 +9,7 @@
 ```
 - 🌱 I’m currently learning new technologies **Spring boot, Angular,microservices architecture, Docker, kubernetes**
 ````
-```
-- 🌱 chaos engineering ':)
-```
+
 - 📫 contact me ! [elmaghroaui.khalil.1@gmail.com](elmaghroaui.khalil.1@gmail.com)
 
   
