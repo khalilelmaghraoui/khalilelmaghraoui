@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hello</h1>
 <h3 align="center">software engineering student at National School of Applied Sciences</h3>
-<h2 align="center">Full stack developer⚡️ springBoot/Angular 🙌</h2>
+<h2 align="center">Devops Inetrn at SQLI</h2>
 
 
 <br/>
 <h3>What i do:  </h3>
 
 ```
-- 🌱 I’m currently learning new technologies **Spring boot, Angular,microservices architecture, Docker, kubernetes**
+- 🌱 I’m currently learning new technologies **CI/CD , jenkins,aws, Docker, kubernetes**
 ````
 
 - 📫 contact me ! [elmaghroaui.khalil.1@gmail.com](elmaghroaui.khalil.1@gmail.com)
