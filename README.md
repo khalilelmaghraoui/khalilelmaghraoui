@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello</h1>
 <h3 align="center">software engineering student at National School of Applied Sciences</h3>
-<h2 align="center">Devops Inetrn at SQLI</h2>
+<h2 align="center">Inetrn at SQLI</h2>
 
 
 <br/>
