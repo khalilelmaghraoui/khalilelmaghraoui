@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hello</h1>
-<h3 align="center">software engineering student at National School of Applied Sciences</h3>
-<h2 align="center">Inetrn at SQLI</h2>
+<h3 align="center">Master 2 : INGÉNIERIE DU DÉVELOPPEMENT LOGICIEL </h3>
+<h2 align="center">📍 Marseille</h2>
 
 
 <br/>
 <h3>What i do:  </h3>
 
 ```
-- 🌱 I’m currently learning new technologies **CI/CD , jenkins,aws, Docker, kubernetes**
+- 🌱 I’m currently learning new technologies **Springboot , CI/CD , jenkins,aws, Docker, kubernetes**
 ````
 
 - 📫 contact me ! [elmaghroaui.khalil.1@gmail.com](elmaghroaui.khalil.1@gmail.com)
