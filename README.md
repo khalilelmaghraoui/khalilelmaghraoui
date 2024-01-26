@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bonjour, I'm Khalil El Maghraoui</h1>
 <h2 align="center">Software Engineer | Master's in Software Development Engineering | Engineering Degree in Software Engineering</h2>
 
-<h3 align="center">📍 Marseille, France</h3>
+<h3 align="center">📍 paris, France</h3>
 
 ---
 
