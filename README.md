@@ -1,19 +1,33 @@
-<h1 align="center">👋 Hello</h1>
-<h3 align="center">Master 2 : INGÉNIERIE DU DÉVELOPPEMENT LOGICIEL </h3>
-<h2 align="center">📍 Marseille</h2>
+<h1 align="center">👋 Bonjour, I'm Khalil El Maghraoui</h1>
+<h2 align="center">Software Engineer | Master's in Software Development Engineering | Engineering Degree in Software Engineering</h2>
 
+<h3 align="center">📍 Marseille, France</h3>
 
-<br/>
-<h3>What i do:  </h3>
+---
 
-```
-- 🌱 I’m currently learning new technologies **Springboot , CI/CD , jenkins,aws, Docker, kubernetes**
-````
+### 👨‍💻 About Me
 
-- 📫 contact me ! [elmaghroaui.khalil.1@gmail.com](elmaghroaui.khalil.1@gmail.com)
+I am a passionate Software Engineer with a Master's degree in Software Development Engineering and an Engineering degree in Software Engineering. My academic and professional journey has equipped me with a profound understanding of software development, from conceptualization to deployment.
 
-  
- 
+### 🛠 Technical Skills
+
+- **Languages**: Java, JavaScript, Shell
+- **Web/Mobile Development**: Spring Boot, React, Angular
+- **Databases**: SQL, MySQL, Oracle
+- **Cloud Services**: AWS (S3, EC2, API Gateway, Lambda, VPC, Cognito, Aurora PostgreSQL)
+- **DevOps Tools**: Jenkins, Terraform, Docker, Kubernetes (K8S), GitHub, Ansible, Grafana
+- **Design Tools**: UML
+
+### 🌱 What I'm Learning
+
+I’m currently enhancing my skills in **Spring Boot, CI/CD, Jenkins, AWS, Docker, and Kubernetes**. I'm always eager to learn new technologies and apply them in innovative ways.
+
+### 📫 How to Reach Me
+
+Feel free to contact me for collaborations or just a chat:
+- 📧 [elmaghroaui.khalil.1@gmail.com](mailto:elmaghroaui.khalil.1@gmail.com)
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
