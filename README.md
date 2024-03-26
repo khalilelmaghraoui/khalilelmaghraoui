@@ -34,7 +34,7 @@ Feel free to contact me for collaborations or just a chat:
 <p align="center">
 <a href="https://github.com/khalilelmaghraoui">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khalilelmaghraoui&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalilelmaghraoui&layout=compact&langs_count=8&theme=algolia&hide=css,PHP"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalilelmaghraoui&layout=compact&langs_count=8&theme=algolia&hide=css,PHP,Blade"/>
 </a>
 </p>
 
